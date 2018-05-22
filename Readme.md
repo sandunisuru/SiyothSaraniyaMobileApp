@@ -1,7 +1,7 @@
 # Siyoth Saraniya 2017 Mobile App
 
 This application was developed for Identifying Groups for the __Siyoth Saraniya 2017__ IT Faculty Freshers Night. 
-It is an __Android__ Application written in Java. Used the Zxing QR Code Scanning Library to aquire QR Codes to Identify Groups. 
+It is an __Android__ Application written in Java. Used the __Zxing__ QR Code Scanning Library to aquire QR Codes to Identify Groups. 
 All the group Deviding are based only this simple If condition :D. 
 
 ````java
